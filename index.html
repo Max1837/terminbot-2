@@ -194,7 +194,7 @@
 
     <!-- FOOTER -->
     <footer>
-        <a class="cta-button" href="https://calendly.com/dein-benutzername" target="_blank">Jetzt Termin buchen</a>
+        <a class="cta-button" href="https://calendly.com/geislermax999" target="_blank">Jetzt Termin buchen</a>
         <p>© 2025 TerminBot – Alle Rechte vorbehalten</p>
     </footer>
 
