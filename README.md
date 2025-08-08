@@ -137,7 +137,7 @@
     <header>
         <h1>TerminBot</h1>
         <p>Ihr smarter KI-Telefonassistent – nimmt Anrufe an, beantwortet Fragen und bucht Termine automatisch in Ihren Kalender. Rund um die Uhr. Persönlich. Effizient.</p>
-        <a class="cta-button" href="[https://calendly.com/geislermax999]" target="_blank">Jetzt Termin buchen</a>
+        <a class="cta-button" href="https://calendly.com/geislermax999" target="_blank">Jetzt Termin buchen</a>
     </header>
 
     <!-- FEATURES -->
@@ -194,7 +194,7 @@
 
     <!-- FOOTER -->
     <footer>
-        <a class="cta-button" href="[https://calendly.com/geislermax999]" target="_blank">Jetzt Termin buchen</a>
+        <a class="cta-button" href="https://calendly.com/geislermax999" target="_blank">Jetzt Termin buchen</a>
         <p>© 2025 TerminBot – Alle Rechte vorbehalten</p>
     </footer>
 
